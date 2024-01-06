@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  justify-content: space-between;
+
+  background-color: lightblue;
+}
+
+.hamburger-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.hamburger-icon {
+  height: 15px;
+  
+}
