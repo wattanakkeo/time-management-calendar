@@ -1,0 +1,26 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 220px;
+  position: absolute;
+  top: 60px;
+  bottom: 0px;
+  left: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-width: 0;
+  border-right: 2px;
+  border-style: solid;
+  border-color: black;
+
+  background-color: #616161;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+}
+
+.user {
+  margin-top: auto;
+}
